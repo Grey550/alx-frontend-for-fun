@@ -1,8 +1,6 @@
 /* Nested hover change text color on hover */
-$text-color: #FF0000;
-
 button {
-    color: $text-color;
+    color: #FF0000;
 
     &:hover {
         color: #00FF00;
