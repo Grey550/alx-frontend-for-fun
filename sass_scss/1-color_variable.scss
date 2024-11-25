@@ -1,10 +1,12 @@
-// assigning color to the body
+// Assigning color to the body and p tag
 
 $textColor: #3D3D3D;
 
 body {
-    p {
-        color: $textColor;
-    }
+    color: $textColor;
+}
+
+p {
+    color: $textColor;
 }
  
