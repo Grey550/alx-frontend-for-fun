@@ -1,13 +1,10 @@
 /* Adjusting font sizes */
 
-$body-font-size: 14px;
-$header-font-size: 16px;
-
 body {
-    font-size: $body-font-size;
+    font-size: 14px;
 
     h1 {
-        font-size: $header-font-size;
+        font-size: 16px;
 
         .smaller {
             font-size: 12px;
